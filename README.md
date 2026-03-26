@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Manasa👋
 
-<!--
-**MNSinfoSEC/MNSinfoSEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 SOC Analyst (Aspirant) | Blue Teaming  
+🎓 BCA Student  
+🚀 Learning Cybersecurity & Building Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔵 Passionate about Blue Teaming & Cyber Defense  
+- 📊 Learning Log Analysis & SIEM  
+- 🛡️ Interested in Threat Detection & Incident Response  
+- 🎯 Goal: SOC Analyst >> Security Engineer 
+
+---
+
+## ⚙️ Skills & Tools
+- 💻 Programming: C,python  
+- 🌐 Web: HTML 
+- 🔐 Cybersecurity Basics  
+- 🧰 Tools: Splunk, Kali Linux  
+
+---
+
+## 📌 Projects
+- 🔍 Phishing Awareness Survey  
+- 🛡️ Cybersecurity Mini Projects (coming soon...)  
+
+---
+
+## 📈 Currently Learning
+- SIEM (Splunk)  
+- Network Security  
+
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/manasa-umashankar-b4a2b5389
+
+---
+## 🧪 TryHackMe Journey
+- 🎯 Actively learning Blue Teaming paths
+- 🧠 Rooms completed: 31  
+- 🔐 Focus: SOC, Threat Detection, Log Analysis  
+- 🚀 Platform: https://tryhackme.com/p/manasaumashankar018
+---
+
+✨ “Defending systems, detecting threats.” 🔐
+
