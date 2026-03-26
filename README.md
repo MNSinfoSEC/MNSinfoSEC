@@ -30,7 +30,11 @@
 
 ## 📈 Currently Learning
 - SIEM (Splunk)  
-- Network Security  
+- Network Security
+---
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/manasa-umashankar-b4a2b5389
+
 
 ---
 ## 🧪 TryHackMe Journey
