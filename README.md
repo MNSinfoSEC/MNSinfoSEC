@@ -32,18 +32,12 @@
 - SIEM (Splunk)  
 - Network Security  
 
-
----
-
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/manasa-umashankar-b4a2b5389
-
 ---
 ## 🧪 TryHackMe Journey
 - 🎯 Actively learning Blue Teaming paths
 - 🧠 Rooms completed: 31  
 - 🔐 Focus: SOC, Threat Detection, Log Analysis  
-- 🚀 Platform: https://tryhackme.com/p/manasaumashankar018
+- 🚀 Platform: https://tryhackme.com/p/manasa.infosec
 ---
 
 ✨ “Defending systems, detecting threats.” 🔐
