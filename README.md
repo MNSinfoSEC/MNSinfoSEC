@@ -1,4 +1,4 @@
-# Hi, I'm Manasa👋
+# Hi, I'm Manasa Umashankar👋
 
 🔐 SOC Analyst (Aspirant) | Blue Teaming  
 🎓 BCA Student  
